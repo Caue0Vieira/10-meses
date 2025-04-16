@@ -31,12 +31,14 @@ body{
     font-size: 45px;
     margin-top: 20px;
     text-align: center;
+    z-index: 1;
+    position: relative;
 }
 #scPirata{
     margin-left: 250px;
 }
 #scQuarto{
-    margin-top: -1800px;
+    margin-top: -2300px;
     margin-left: 620px;
     transform: rotate(2deg);
     position: relative;
