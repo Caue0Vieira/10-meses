@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+}
+body{
+    background-color: rosybrown;
+}
+.polaroid {
+    background-color: white;
+    padding: 10px 10px 30px 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+    transform: rotate(-2deg);
+}
+
+.polaroid img {
+    width: 100%;
+    border-radius: 3px;
+}
+
+.caption {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #880e4f;
+}
+#contador {
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+    margin-top: 20px;
+    text-align: center;
+}
+#scPirata{
+    margin-left: 250px;
+}
+#scQuarto{
+    margin-top: -2300px;
+    margin-left: 620px;
+    transform: rotate(2deg);
+    position: relative;
+    z-index: 0;
+}
+#scIgreja{
+    margin-top: 1300px;
+    margin-left: 500px;
+    transform: rotate(-2deg);
+}
+#scIgreja{
+    margin-top: 800px;
+    margin-left: 600px;
+    transform: rotate(-2deg);
+}
+.meu-video{
+    width: 300px;
+}
+#video{
+    margin-top: 100px;
+    margin-left: 400px;
+    transform: rotate(-2deg);
+}
+.texto {
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    z-index: 1;
+    position: relative;
+}
